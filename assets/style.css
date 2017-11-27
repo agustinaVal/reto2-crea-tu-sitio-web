@@ -27,3 +27,21 @@
 	color: white;
 	border-radius: 5px;
 }
+
+.imagenesFlores{
+	width: 100%;
+	height: auto;
+	padding: 2em;
+}
+
+footer{
+	background-color: grey;	
+	height: 3em;
+	
+}
+
+.foter{
+	color: white;
+	padding-left: 50%;
+	padding-top: 1em;
+}
