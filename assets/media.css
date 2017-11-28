@@ -1,6 +1,36 @@
 @media (max-width: 767px) {
     [class*="col-"] {
+
         max-width:100%;
         flex: none;
     }
+
+    .fondo {
+		background-image: url(img/descarga3.jpg);
+		width: 100%;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.menu2 {
+		display: none;
+	}
+
+	#ico {
+		display: inline-block;
+		color:#7F0000FF;
+	 }
+
+	 .btn{
+    	width: 30%;
+    	height: 4em;
+    }
+
+    .foter{
+    	align-content: center;
+    	font-size: 8px;
+    }
+
+
+
 }
